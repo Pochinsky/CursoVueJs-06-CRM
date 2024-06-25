@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "id": "c85f",
+      "name": "Tomas",
+      "lastname": "Guttman Pogorzelski",
+      "email": "tomas.guttman@sansano.usm.cl",
+      "phone": "+56990065049",
+      "company": "Universidad Tecnica Federico Santa Maria",
+      "position": "Estudiante",
+      "state": true
+    }
+  ]
+}
